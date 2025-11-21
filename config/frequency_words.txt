@@ -1,6 +1,3 @@
-大疆
-DJI
-
 ai
 !gai
 人工智能
@@ -8,4 +5,12 @@ ai
 碳纤维
 自行车
 轮组
+
+Carbon
++Fiber
+
+bicycle
+cycling
+wheelset
+
 BOOSTOR
